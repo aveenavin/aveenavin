@@ -48,25 +48,6 @@ I work with React, Node.js, Express.js, MongoDB, TypeScript, and JavaScript to c
 
 </p>
 
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aveenavin">
-    <img src="https://img.shields.io/badge/LinkedIn-Avinash%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:73aveen@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-73aveen%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/aveenavin">
-    <img src="https://img.shields.io/badge/GitHub-@aveenavin-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 <h2 align="center">🌐 Connect With Me</h2>
