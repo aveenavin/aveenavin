@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Sharma</h1>
-<h3 align="center">MERN Stack Developer | Full Stack Web Developer | JavaScript Enthusiast</h3>
+<h3 align="center">MERN Stack Developer | Full Stack Web Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=MERN+Stack+Developer;Learning+Full+Stack+Development;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
@@ -7,19 +7,17 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-💻 MERN Stack Developer passionate about building modern full-stack web applications.
+ MERN Stack Developer passionate about building modern full-stack web applications.
 
-🌱 Currently learning advanced backend development and scalable architectures.
+ Interested in REST APIs, Authentication, MongoDB, AI Integration, and Production-ready applications.
 
-⚡ Interested in REST APIs, Authentication, MongoDB, AI Integration, and Production-ready applications.
-
-🎯 Goal: Become a professional Full Stack Developer and contribute to impactful products.
+Goal: Become a professional Full Stack Developer and contribute to impactful products.
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
@@ -61,15 +59,6 @@
 
 ---
 
-# 📂 Featured Projects
-
-⭐ Full Stack AI Assistant
-
-⭐ Airbnb Clone
-
-⭐ Equipment Rental Manager (Coming Soon)
-
----
 
 # 📊 GitHub Stats
 
@@ -87,6 +76,6 @@
 
 ---
 
-## ✨ Quote
+##  Quote
 
 > "Keep Building. Keep Learning. Keep Growing."
