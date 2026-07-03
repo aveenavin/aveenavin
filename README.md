@@ -50,7 +50,7 @@ I work with React, Node.js, Express.js, MongoDB, TypeScript, and JavaScript to c
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aveenavin" target="_blank">
