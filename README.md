@@ -44,6 +44,7 @@ I work with React, Node.js, Express.js, MongoDB, TypeScript, and JavaScript to c
 <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=plastic&logo=mongoose&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
 
 </p>
