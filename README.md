@@ -74,7 +74,7 @@ I work with React, Node.js, Express.js, MongoDB, TypeScript, and JavaScript to c
 ---
 
 
-##  GitHub Stats
+###  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=aveenavin&show_icons=true&theme=tokyonight)
 
@@ -84,12 +84,12 @@ I work with React, Node.js, Express.js, MongoDB, TypeScript, and JavaScript to c
 
 ---
 
-## Contribution Graph
+### Contribution Graph
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-##  Quote
+###  Quote
 
 > "Keep Building. Keep Learning. Keep Growing."
