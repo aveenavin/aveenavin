@@ -1,16 +1,92 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Avinash Sharma</h1>
+<h3 align="center">MERN Stack Developer | Full Stack Web Developer | JavaScript Enthusiast</h3>
 
-<!--
-**aveenavin/aveenavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=MERN+Stack+Developer;Learning+Full+Stack+Development;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 About Me
+
+💻 MERN Stack Developer passionate about building modern full-stack web applications.
+
+🌱 Currently learning advanced backend development and scalable architectures.
+
+⚡ Interested in REST APIs, Authentication, MongoDB, AI Integration, and Production-ready applications.
+
+🎯 Goal: Become a professional Full Stack Developer and contribute to impactful products.
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aveenavin)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:73aveen@gmail.com)
+
+---
+
+# 📂 Featured Projects
+
+⭐ Full Stack AI Assistant
+
+⭐ Airbnb Clone
+
+⭐ Equipment Rental Manager (Coming Soon)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=aveenavin&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=aveenavin&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aveenavin&layout=compact&theme=tokyonight)
+
+---
+
+# 🐍 Contribution Graph
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+## ✨ Quote
+
+> "Keep Building. Keep Learning. Keep Growing."
