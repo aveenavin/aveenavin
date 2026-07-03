@@ -67,7 +67,7 @@ I work with React, Node.js, Express.js, MongoDB, TypeScript, and JavaScript to c
 </p>
 
 <p align="center">
- Open for Collaboration • MERN Developer • 📧 Feel free to connect
+ Open for Collaboration • 📧 Feel free to connect
 </p>
 
 ---
