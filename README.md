@@ -11,9 +11,12 @@
 
  MERN Stack Developer passionate about building modern full-stack web applications.
 
+I work with React, Node.js, Express.js, MongoDB, TypeScript, and JavaScript to create full-stack applications.
+
  Interested in REST APIs, Authentication, MongoDB, AI Integration, and Production-ready applications.
 
-Goal: Become a professional Full Stack Developer and contribute to impactful products.
+
+🤝 Open to collaborating on open-source and full-stack projects.
 
 ---
 
