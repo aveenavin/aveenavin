@@ -75,7 +75,7 @@ I work with React, Node.js, Express.js, MongoDB, TypeScript, and JavaScript to c
 ---
 
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=aveenavin&show_icons=true&theme=tokyonight)
 
