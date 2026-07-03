@@ -90,6 +90,6 @@ I work with React, Node.js, Express.js, MongoDB, TypeScript, and JavaScript to c
 
 ---
 
-###  Quote
+### Quote
 
 > "Keep Building. Keep Learning. Keep Growing."
